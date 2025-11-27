@@ -50,12 +50,12 @@ Input the ingredients:
 The meal has been added!
 
 What would you like to do (add, show, plan, list plan, save, exit)?
-> save
+save
 Input a filename:
-> shoppinglist.txt
+shoppinglist.txt
 Saved!
 What would you like to do (add, show, plan, list plan, save, exit)?
-> exit
+exit
 Bye!
 
 shoppinglist.txt
